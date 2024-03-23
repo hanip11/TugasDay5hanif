@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".DetailActivity">
+
+    <TextView
+        android:id="@+id/Detailtitle"
+        android:layout_width="match_parent"
+        android:layout_height="43dp"
+        android:layout_gravity="center"
+        android:background="#3137C8"
+        android:text="@string/ocuuryystore"
+        android:textAlignment="center"
+        android:textColor="#99CD5C"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/detailetnama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="@string/selamatdatang"
+        android:textStyle="bold"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/detailettipemember"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:hint="@string/tipemember"
+        android:padding="8dp" />
+
+    <TextView
+        android:id="@+id/detailtvketerangantransaksi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/keterangan_transaksi"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/tv_kode_barang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/kodebarang"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_nama_barang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/namabarang"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_harga_barang"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/hargabarang"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_total_harga"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/totalharga"
+        android:textSize="14sp" />
+
+
+
+    <TextView
+        android:id="@+id/tv_harga_diskon"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/hargadiskon"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_member"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/diskonmember"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/tv_jumlah_bayar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/jumlahbayar"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/detailtvterimakasi"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:text="@string/terimakasih"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+
+    <Button
+        android:id="@+id/btn_share"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/bagikan"
+        android:textSize="16sp" />
+
+
+
+</LinearLayout>

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_pelanggan">Nombre del Cliente</string>
+    <string name="tipe_pelanggan">Tipo de Cliente</string>
+    <string name="gold">Oro</string>
+    <string name="silver">Plata</string>
+    <string name="biasa">Normal</string>
+    <string name="kode_barang">Código del Artículo</string>
+    <string name="jumlah_barang">Cantidad de Artículos</string>
+    <string name="proses">Proceso</string>
+    <string name="keterangan_transaksi">Detalles de la Transacción</string>
+    <string name="terimakasih">¡Gracias por su compra aquí!</string>
+    <string name="bagikan">Compartir a</string>
+    <string name="selamatdatang">Bienvenido</string>
+    <string name="tipemember">Tipo de Membresía</string>
+    <string name="kodebarang">Código de Producto:</string>
+    <string name="namabarang">Nombre de Producto:</string>
+    <string name="hargabarang">Precio del Producto:</string>
+    <string name="totalharga">Precio Total:</string>
+    <string name="hargadiskon">Precio Después del Descuento:</string>
+    <string name="diskonmember">Descuento de Miembro:</string>
+    <string name="jumlahbayar">Pago Total:</string>
+    <string name="ocuuryystore">ocuu-ryy-store</string>
+</resources>

@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">TugasDay5</string>
+    <string name="nama_pelanggan">Nama Pelanggan</string>
+    <string name="tipe_pelanggan">Tipe Pelanggan</string>
+    <string name="gold">Emas</string>
+    <string name="silver">Perak</string>
+    <string name="biasa">Biasa</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="proses">Proses</string>
+    <string name="keterangan_transaksi">Detail Transaksi</string>
+    <string name="terimakasih">Terima kasih atas pembelian Anda di sini!</string>
+    <string name="bagikan">Bagikan ke</string>
+    <string name="selamatdatang">Selamat datang</string>
+    <string name="tipemember">Jenis Keanggotaan</string>
+    <string name="kodebarang">Kode Produk:</string>
+    <string name="namabarang">Nama Produk:</string>
+    <string name="hargabarang">Harga Produk:</string>
+    <string name="totalharga">Total Harga:</string>
+    <string name="hargadiskon">Harga Setelah Diskon:</string>
+    <string name="diskonmember">Diskon Anggota:</string>
+    <string name="jumlahbayar">Total Pembayaran:</string>
+    <string name="ocuuryystore">ocuu-ryy-store</string>
+
+</resources>
